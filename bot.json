@@ -1,6 +1,6 @@
 {
   "bb_sync_version":"1.0",
-  "name":"BBhelpBot",
+  "name":"BB_help_bot",
   "git_remote":"git@github.com:sohamdeogaonkar/bbhelpbot.git",
   "csv_url":null
 }
