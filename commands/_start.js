@@ -4,7 +4,7 @@
   need_reply: 
   auto_retry_time: 
   <<ANSWER
-This bot say hello to new users in chat.
+This bot say hello to new users in chatmmmmmmmmmm.
 Add it to any group chat.
   ANSWER
   keyboard: 
